@@ -1,0 +1,10 @@
+C:\Users\HMERTC\source\repos\AdminGiris\AdminGiris\bin\Debug\AdminGiris.exe.config
+C:\Users\HMERTC\source\repos\AdminGiris\AdminGiris\bin\Debug\AdminGiris.exe
+C:\Users\HMERTC\source\repos\AdminGiris\AdminGiris\bin\Debug\AdminGiris.pdb
+C:\Users\HMERTC\source\repos\AdminGiris\AdminGiris\obj\Debug\AdminGiris.csprojAssemblyReference.cache
+C:\Users\HMERTC\source\repos\AdminGiris\AdminGiris\obj\Debug\AdminGiris.Form1.resources
+C:\Users\HMERTC\source\repos\AdminGiris\AdminGiris\obj\Debug\AdminGiris.Properties.Resources.resources
+C:\Users\HMERTC\source\repos\AdminGiris\AdminGiris\obj\Debug\AdminGiris.csproj.GenerateResource.cache
+C:\Users\HMERTC\source\repos\AdminGiris\AdminGiris\obj\Debug\AdminGiris.csproj.CoreCompileInputs.cache
+C:\Users\HMERTC\source\repos\AdminGiris\AdminGiris\obj\Debug\AdminGiris.exe
+C:\Users\HMERTC\source\repos\AdminGiris\AdminGiris\obj\Debug\AdminGiris.pdb
