@@ -1,0 +1,12 @@
+C:\Users\HMERTC\source\repos\Hastane\Hastane\bin\Debug\Hastane.exe.config
+C:\Users\HMERTC\source\repos\Hastane\Hastane\bin\Debug\Hastane.exe
+C:\Users\HMERTC\source\repos\Hastane\Hastane\bin\Debug\Hastane.pdb
+C:\Users\HMERTC\source\repos\Hastane\Hastane\obj\Debug\Hastane.csprojAssemblyReference.cache
+C:\Users\HMERTC\source\repos\Hastane\Hastane\obj\Debug\Hastane.Doktor.resources
+C:\Users\HMERTC\source\repos\Hastane\Hastane\obj\Debug\Hastane.Form1.resources
+C:\Users\HMERTC\source\repos\Hastane\Hastane\obj\Debug\Hastane.Hasta.resources
+C:\Users\HMERTC\source\repos\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+C:\Users\HMERTC\source\repos\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.cache
+C:\Users\HMERTC\source\repos\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\HMERTC\source\repos\Hastane\Hastane\obj\Debug\Hastane.exe
+C:\Users\HMERTC\source\repos\Hastane\Hastane\obj\Debug\Hastane.pdb
