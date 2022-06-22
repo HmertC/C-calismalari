@@ -1,0 +1,10 @@
+C:\Users\HMERTC\source\repos\Musteri_Giris\Musteri_Giris\bin\Debug\Musteri_Giris.exe.config
+C:\Users\HMERTC\source\repos\Musteri_Giris\Musteri_Giris\bin\Debug\Musteri_Giris.exe
+C:\Users\HMERTC\source\repos\Musteri_Giris\Musteri_Giris\bin\Debug\Musteri_Giris.pdb
+C:\Users\HMERTC\source\repos\Musteri_Giris\Musteri_Giris\obj\Debug\Musteri_Giris.csprojAssemblyReference.cache
+C:\Users\HMERTC\source\repos\Musteri_Giris\Musteri_Giris\obj\Debug\Musteri_Giris.Form1.resources
+C:\Users\HMERTC\source\repos\Musteri_Giris\Musteri_Giris\obj\Debug\Musteri_Giris.Properties.Resources.resources
+C:\Users\HMERTC\source\repos\Musteri_Giris\Musteri_Giris\obj\Debug\Musteri_Giris.csproj.GenerateResource.cache
+C:\Users\HMERTC\source\repos\Musteri_Giris\Musteri_Giris\obj\Debug\Musteri_Giris.csproj.CoreCompileInputs.cache
+C:\Users\HMERTC\source\repos\Musteri_Giris\Musteri_Giris\obj\Debug\Musteri_Giris.exe
+C:\Users\HMERTC\source\repos\Musteri_Giris\Musteri_Giris\obj\Debug\Musteri_Giris.pdb
