@@ -1,0 +1,14 @@
+C:\Users\HMERTC\source\repos\Okul\Okul\bin\Debug\Okul.exe.config
+C:\Users\HMERTC\source\repos\Okul\Okul\bin\Debug\Okul.exe
+C:\Users\HMERTC\source\repos\Okul\Okul\bin\Debug\Okul.pdb
+C:\Users\HMERTC\source\repos\Okul\Okul\obj\Debug\Okul.csprojAssemblyReference.cache
+C:\Users\HMERTC\source\repos\Okul\Okul\obj\Debug\Okul.Form1.resources
+C:\Users\HMERTC\source\repos\Okul\Okul\obj\Debug\Okul.Maas.maas.resources
+C:\Users\HMERTC\source\repos\Okul\Okul\obj\Debug\Okul.Ogrenci.ogrenci.resources
+C:\Users\HMERTC\source\repos\Okul\Okul\obj\Debug\Okul.Properties.Resources.resources
+C:\Users\HMERTC\source\repos\Okul\Okul\obj\Debug\Okul.csproj.GenerateResource.cache
+C:\Users\HMERTC\source\repos\Okul\Okul\obj\Debug\Okul.csproj.CoreCompileInputs.cache
+C:\Users\HMERTC\source\repos\Okul\Okul\obj\Debug\Okul.exe
+C:\Users\HMERTC\source\repos\Okul\Okul\obj\Debug\Okul.pdb
+C:\Users\HMERTC\source\repos\Okul\Okul\obj\Debug\Okul.Sinif.sinif.resources
+C:\Users\HMERTC\source\repos\Okul\Okul\obj\Debug\Okul.Egitmen.egitmen.resources
