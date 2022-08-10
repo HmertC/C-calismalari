@@ -1,0 +1,7 @@
+C:\Users\HMERTC\source\repos\PropEhliyet\PropEhliyet\bin\Debug\PropEhliyet.exe.config
+C:\Users\HMERTC\source\repos\PropEhliyet\PropEhliyet\bin\Debug\PropEhliyet.exe
+C:\Users\HMERTC\source\repos\PropEhliyet\PropEhliyet\bin\Debug\PropEhliyet.pdb
+C:\Users\HMERTC\source\repos\PropEhliyet\PropEhliyet\obj\Debug\PropEhliyet.csprojAssemblyReference.cache
+C:\Users\HMERTC\source\repos\PropEhliyet\PropEhliyet\obj\Debug\PropEhliyet.csproj.CoreCompileInputs.cache
+C:\Users\HMERTC\source\repos\PropEhliyet\PropEhliyet\obj\Debug\PropEhliyet.exe
+C:\Users\HMERTC\source\repos\PropEhliyet\PropEhliyet\obj\Debug\PropEhliyet.pdb
