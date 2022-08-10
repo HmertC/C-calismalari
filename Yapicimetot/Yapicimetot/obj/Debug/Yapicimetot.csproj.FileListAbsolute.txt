@@ -1,0 +1,7 @@
+C:\Users\HMERTC\source\repos\Yapicimetot\Yapicimetot\bin\Debug\Yapicimetot.exe.config
+C:\Users\HMERTC\source\repos\Yapicimetot\Yapicimetot\bin\Debug\Yapicimetot.exe
+C:\Users\HMERTC\source\repos\Yapicimetot\Yapicimetot\bin\Debug\Yapicimetot.pdb
+C:\Users\HMERTC\source\repos\Yapicimetot\Yapicimetot\obj\Debug\Yapicimetot.csprojAssemblyReference.cache
+C:\Users\HMERTC\source\repos\Yapicimetot\Yapicimetot\obj\Debug\Yapicimetot.csproj.CoreCompileInputs.cache
+C:\Users\HMERTC\source\repos\Yapicimetot\Yapicimetot\obj\Debug\Yapicimetot.exe
+C:\Users\HMERTC\source\repos\Yapicimetot\Yapicimetot\obj\Debug\Yapicimetot.pdb
