@@ -1,0 +1,7 @@
+C:\Users\HMERTC\source\repos\StaticApp\StaticApp\bin\Debug\StaticApp.exe.config
+C:\Users\HMERTC\source\repos\StaticApp\StaticApp\bin\Debug\StaticApp.exe
+C:\Users\HMERTC\source\repos\StaticApp\StaticApp\bin\Debug\StaticApp.pdb
+C:\Users\HMERTC\source\repos\StaticApp\StaticApp\obj\Debug\StaticApp.csprojAssemblyReference.cache
+C:\Users\HMERTC\source\repos\StaticApp\StaticApp\obj\Debug\StaticApp.csproj.CoreCompileInputs.cache
+C:\Users\HMERTC\source\repos\StaticApp\StaticApp\obj\Debug\StaticApp.exe
+C:\Users\HMERTC\source\repos\StaticApp\StaticApp\obj\Debug\StaticApp.pdb
