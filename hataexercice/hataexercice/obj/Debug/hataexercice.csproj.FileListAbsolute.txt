@@ -1,0 +1,7 @@
+C:\Users\HMERTC\source\repos\hataexercice\hataexercice\bin\Debug\hataexercice.exe.config
+C:\Users\HMERTC\source\repos\hataexercice\hataexercice\bin\Debug\hataexercice.exe
+C:\Users\HMERTC\source\repos\hataexercice\hataexercice\bin\Debug\hataexercice.pdb
+C:\Users\HMERTC\source\repos\hataexercice\hataexercice\obj\Debug\hataexercice.csprojAssemblyReference.cache
+C:\Users\HMERTC\source\repos\hataexercice\hataexercice\obj\Debug\hataexercice.csproj.CoreCompileInputs.cache
+C:\Users\HMERTC\source\repos\hataexercice\hataexercice\obj\Debug\hataexercice.exe
+C:\Users\HMERTC\source\repos\hataexercice\hataexercice\obj\Debug\hataexercice.pdb
