@@ -1,0 +1,7 @@
+C:\Users\HMERTC\source\repos\Fibo\Fibo\bin\Debug\Fibo.exe.config
+C:\Users\HMERTC\source\repos\Fibo\Fibo\bin\Debug\Fibo.exe
+C:\Users\HMERTC\source\repos\Fibo\Fibo\bin\Debug\Fibo.pdb
+C:\Users\HMERTC\source\repos\Fibo\Fibo\obj\Debug\Fibo.csprojAssemblyReference.cache
+C:\Users\HMERTC\source\repos\Fibo\Fibo\obj\Debug\Fibo.csproj.CoreCompileInputs.cache
+C:\Users\HMERTC\source\repos\Fibo\Fibo\obj\Debug\Fibo.exe
+C:\Users\HMERTC\source\repos\Fibo\Fibo\obj\Debug\Fibo.pdb
