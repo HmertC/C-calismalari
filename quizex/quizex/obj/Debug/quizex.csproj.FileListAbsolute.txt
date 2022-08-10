@@ -1,0 +1,7 @@
+C:\Users\HMERTC\source\repos\quizex\quizex\bin\Debug\quizex.exe.config
+C:\Users\HMERTC\source\repos\quizex\quizex\bin\Debug\quizex.exe
+C:\Users\HMERTC\source\repos\quizex\quizex\bin\Debug\quizex.pdb
+C:\Users\HMERTC\source\repos\quizex\quizex\obj\Debug\quizex.csprojAssemblyReference.cache
+C:\Users\HMERTC\source\repos\quizex\quizex\obj\Debug\quizex.csproj.CoreCompileInputs.cache
+C:\Users\HMERTC\source\repos\quizex\quizex\obj\Debug\quizex.exe
+C:\Users\HMERTC\source\repos\quizex\quizex\obj\Debug\quizex.pdb
