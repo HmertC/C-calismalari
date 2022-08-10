@@ -1,0 +1,7 @@
+C:\Users\HMERTC\source\repos\ntpProperties\ntpProperties\bin\Debug\ntpProperties.exe.config
+C:\Users\HMERTC\source\repos\ntpProperties\ntpProperties\bin\Debug\ntpProperties.exe
+C:\Users\HMERTC\source\repos\ntpProperties\ntpProperties\bin\Debug\ntpProperties.pdb
+C:\Users\HMERTC\source\repos\ntpProperties\ntpProperties\obj\Debug\ntpProperties.csprojAssemblyReference.cache
+C:\Users\HMERTC\source\repos\ntpProperties\ntpProperties\obj\Debug\ntpProperties.csproj.CoreCompileInputs.cache
+C:\Users\HMERTC\source\repos\ntpProperties\ntpProperties\obj\Debug\ntpProperties.exe
+C:\Users\HMERTC\source\repos\ntpProperties\ntpProperties\obj\Debug\ntpProperties.pdb
