@@ -1,0 +1,7 @@
+C:\Users\HMERTC\source\repos\Gnriclist\Gnriclist\bin\Debug\Gnriclist.exe.config
+C:\Users\HMERTC\source\repos\Gnriclist\Gnriclist\bin\Debug\Gnriclist.exe
+C:\Users\HMERTC\source\repos\Gnriclist\Gnriclist\bin\Debug\Gnriclist.pdb
+C:\Users\HMERTC\source\repos\Gnriclist\Gnriclist\obj\Debug\Gnriclist.csprojAssemblyReference.cache
+C:\Users\HMERTC\source\repos\Gnriclist\Gnriclist\obj\Debug\Gnriclist.csproj.CoreCompileInputs.cache
+C:\Users\HMERTC\source\repos\Gnriclist\Gnriclist\obj\Debug\Gnriclist.exe
+C:\Users\HMERTC\source\repos\Gnriclist\Gnriclist\obj\Debug\Gnriclist.pdb
